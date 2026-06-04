@@ -1,6 +1,6 @@
 ---
 name: new-page
-description: Scaffold halaman list read-only dengan filter bar + DataGrid. Cocok dipakai setelah /new-service. Argumen: <domain> <parent-path>
+description: "Scaffold halaman list read-only dengan filter bar + DataGrid. Cocok dipakai setelah /new-service. Argumen: <domain> <parent-path>"
 ---
 
 # New Page Scaffold (Read-only List)

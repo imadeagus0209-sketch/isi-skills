@@ -1,6 +1,6 @@
 ---
 name: new-crud
-description: Scaffold lengkap fitur CRUD baru (type, validation, service, store, sidebar, table, page). Argumen: <domain> <endpoint-prefix>
+description: "Scaffold lengkap fitur CRUD baru (type, validation, service, store, sidebar, table, page). Argumen: <domain> <endpoint-prefix>"
 ---
 
 # New CRUD Feature Scaffold

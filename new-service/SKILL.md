@@ -1,6 +1,6 @@
 ---
 name: new-service
-description: Scaffold service + Zustand store untuk domain baru tanpa CRUD penuh. Argumen: <domain> <endpoint-prefix> <folder>
+description: "Scaffold service + Zustand store untuk domain baru tanpa CRUD penuh. Argumen: <domain> <endpoint-prefix> <folder>"
 ---
 
 # New Service + Store Scaffold
