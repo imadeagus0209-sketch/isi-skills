@@ -22,6 +22,9 @@ npx skills add imadeagus0209/ui-qrio-skills
 | `validation` | Referensi validasi form — Yup schema, React Hook Form + Controller, custom validator |
 | `axios-http` | Referensi penggunaan Axios — pola GET/POST/PUT/DELETE di service, IResponse, error handling |
 | `socketio` | Referensi Socket.IO — dua useEffect pattern, room management, auth token, reconnect handling |
+| `dialog` | Referensi pola CRUD dialog — Add, Edit, Confirm delete via useDialogStore global |
+| `datagrid` | Referensi MUI DataGrid — columns, RowOptions, server-side pagination, sortModel |
+| `types` | Konvensi TypeScript types — IResponseXxx, ICreateXxx, IXxx entity, IResponse<T> |
 
 ## Stack
 
