@@ -19,6 +19,9 @@ npx skills add imadeagus0209/ui-qrio-skills
 | `auth-config` | Referensi arsitektur Auth — login/logout flow, token, socket init, provider tree |
 | `http-config` | Referensi HTTP config — dynamic URL resolution, axios interceptors |
 | `zustand-store` | Referensi global state Zustand — pola store, cara akses, store global |
+| `validation` | Referensi validasi form — Yup schema, React Hook Form + Controller, custom validator |
+| `axios-http` | Referensi penggunaan Axios — pola GET/POST/PUT/DELETE di service, IResponse, error handling |
+| `socketio` | Referensi Socket.IO — dua useEffect pattern, room management, auth token, reconnect handling |
 
 ## Stack
 
